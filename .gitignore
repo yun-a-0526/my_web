@@ -1,0 +1,4 @@
+__pycache__
+pybo.db
+migrations
+*.pyc
